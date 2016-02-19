@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adam Wilson]]></title>
+        <description><![CDATA[Adam Wilson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 01:24:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello, World! My name is, well, Adam Wilson and I'm the National Company Relations Manager @Launch_Code here in beautiful #STL, my hometown. When I'm not speaking with companies, cities, and candidates about LaunchCode, I'm a husband to Anita, father to Eli, son to Quentin and Nancy, brother to Ben, uncle to Eloise, educator, equal-rights advocate, and EdTech Entrepreneur.</p>]]></description>
+            <link>undefined8d6b7d4e-c784-4c9e-bbd2-5c28436853a0/index.html</link>
+            <guid isPermaLink="false">8d6b7d4e-c784-4c9e-bbd2-5c28436853a0</guid>
+            <pubDate>Fri, 19 Feb 2016 01:24:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
